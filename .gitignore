@@ -1,0 +1,16 @@
+# 仮想環境ディレクトリ
+venv/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# Pythonバイトコード
+__pycache__/
+*.pyc
+
+# Jupyterノートブックのチェックポイント
+.ipynb_checkpoints/
+
+# Streamlitの設定ファイル
+.streamlit/
